@@ -72,7 +72,7 @@ section{
     height: auto;
 }
 
-.VENTAJAS{
+.VENTAJAS, .DESVENTAJAS{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 40px;
@@ -88,6 +88,14 @@ section{
     height: 200px;
 }
 
-.uno{
-    
+.titulo{
+    color: black;
+}
+
+.DESVENTAJAS{
+    padding: 10px 200px ;
+}
+
+.fin{
+    padding: 0px 200px;
 }
