@@ -56,3 +56,20 @@ p{
 section{
     margin-top: 50px;
 }
+.row{
+    margin-top: 20px;
+}
+.card{
+    margin-top: 20px;
+}
+.card-img-top{
+    width: 100%;
+    height: 150px;
+}
+.img1{
+    height: 177px;
+    width: 167px;
+    object-fit: cover;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
